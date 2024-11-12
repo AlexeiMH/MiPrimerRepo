@@ -36,5 +36,4 @@ public class UsuarioController {
         usuarioService.delete(usuarioId);
     }
 
-
 }
